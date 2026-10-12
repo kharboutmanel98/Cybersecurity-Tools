@@ -44,8 +44,6 @@ chmod +x file_ioc_scanner.sh
 ./file_ioc_scanner.sh --help
 ```
 
-*Note: The available options depend on the script's implementation.*
-
 ## Repository Structure
 
 ```text
